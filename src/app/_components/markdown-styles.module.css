@@ -16,3 +16,39 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown ol {
+  @apply list-decimal pl-6;
+}
+
+.markdown ul {
+  @apply list-disc pl-6;
+}
+
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown a {
+  @apply text-blue-600 underline;
+}
+
+.markdown code {
+  @apply bg-gray-200 px-2 py-1 rounded;
+}
+
+.markdown pre {
+  @apply bg-gray-800 text-white p-4 rounded;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-gray-400 pl-4 italic;
+}
+
+.markdown hr {
+  @apply my-8 border-gray-300;
+}
+
+.markdown img {
+  @apply mx-auto my-6 max-w-full;
+}
