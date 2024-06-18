@@ -1,13 +1,13 @@
 ---
 title: "Deepfake AI"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+excerpt: "Deepfake AI technology has a profound impact on media, education, and misinformation, with potential risks such as spreading false information and online abuse. Tech giants are developing advanced tools to detect and combat deepfakes effectively."
+coverImage: "/assets/blog/deepfake-ai/cover.jpg"
+date: "2023-11-26T05:35:07.322Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/deepfake-ai/cover.jpg"
 ---
 
 ## Deepfake AI
