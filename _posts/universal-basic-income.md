@@ -1,7 +1,8 @@
 ---
 title: "A Financial Grant: Universal Basic Income"
 excerpt: "A detailed look at Universal Basic Income (UBI) in India, as recommended by the Economic Advisory Council to the Prime Minister. Understand UBI's components, potential benefits, and challenges in addressing economic inequality and enhancing social security."
-date: "2020-03-16T05:35:07.322Z"
+coverImage: "/assets/blog/universal-basic-income/cover.png"
+date: "2023-09-16T05:35:07.322Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"

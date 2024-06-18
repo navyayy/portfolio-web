@@ -2,7 +2,7 @@
 title: "Docker and Containerization"
 excerpt: "Docker revolutionizes software deployment by enabling multiple programs to run on a single operating system without separate virtual machines. This blog explores Docker's role in optimizing resource utilization and its impact on modern software development and deployment strategies."
 coverImage: "/assets/blog/docker-and-containerization/cover.png"
-date: "2020-01-08T05:35:07.322Z"
+date: "2023-01-08T05:35:07.322Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
