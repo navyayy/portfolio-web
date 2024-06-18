@@ -2,7 +2,7 @@
 title: "The New Gen Sword"
 excerpt: "Explore the plight of the sacred Ganga river, suffering from pollution and neglect, and learn about ongoing efforts to save this revered waterway. Join the movement to restore the Ganga, ensuring its preservation for future generations."
 coverImage: "/assets/blog/the-new-gen-sword/cover.jpg"
-date: "2022-01-11T00:00:00.000Z"
+date: "2022-10-21T00:00:00.000Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
