@@ -1,7 +1,6 @@
 ---
 title: "A Financial Grant: Universal Basic Income"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/universal-basic-income/cover.jpg"
+excerpt: "A detailed look at Universal Basic Income (UBI) in India, as recommended by the Economic Advisory Council to the Prime Minister. Understand UBI's components, potential benefits, and challenges in addressing economic inequality and enhancing social security."
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Navya Srivastav
