@@ -1,6 +1,6 @@
 ---
 title: "What is A* Search Algorithm?"
-excerpt: "Boost your dealership sales with smart marketing! Leverage digital ads, local SEO, and personalized customer experiences to stay ahead in 2024. Adapt to trends like AR, AI, and EVs to drive more leads and conversions! 🚗💨"
+excerpt: "A* Search Algorithm finds the shortest path efficiently by balancing actual cost and heuristic estimation. 🌍 Used in games, robotics, GPS navigation, and AI, it ensures optimal and fast pathfinding when given the right heuristic! 🚀"
 coverImage: "/assets/blog/what-is-a-search-algorithm/cover.jpg"
 date: "2023-10-21T00:00:00.000Z"
 author:

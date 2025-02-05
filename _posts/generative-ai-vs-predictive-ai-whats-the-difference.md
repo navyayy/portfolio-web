@@ -1,6 +1,6 @@
 ---
 title: "Generative AI vs. Predictive AI: What’s the Difference?"
-excerpt: "Boost your dealership sales with smart marketing! Leverage digital ads, local SEO, and personalized customer experiences to stay ahead in 2024. Adapt to trends like AR, AI, and EVs to drive more leads and conversions! 🚗💨"
+excerpt: "Generative AI creates, while Predictive AI forecasts! From content generation to fraud detection, both AI types shape industries uniquely. Understanding their differences and synergy unlocks AI’s full potential for businesses and innovation!"
 coverImage: "/assets/blog/generative-ai-vs-predictive-ai-whats-the-difference/cover.jpg"
 date: "2025-01-16T00:00:00.000Z"
 author:
