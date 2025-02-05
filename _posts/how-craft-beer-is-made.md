@@ -2,7 +2,7 @@
 title: "How Craft Beer is made: From Grain to Glass"
 excerpt: "Craft beer is more than a drink—it's a story in every sip. From malting and mashing to fermentation and packaging, each step transforms humble grains into a glass of liquid art. At Little Miami Brewing, we craft every brew with passion, precision, and sustainability. 🍻"
 coverImage: "/assets/blog/how-craft-beer-is-made/cover.jpg"
-date: "2022-10-21T00:00:00.000Z"
+date: "2024-06-21T00:00:00.000Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
@@ -13,7 +13,7 @@ ogImage:
 
 Craft Beer is more than just a beverage, it can be better defined as a crafted work of art or a passion of a skilled brewer. At [Little Miami Brewing](https://www.littlemiamibrewing.com/), we believe that the craft beer brewing process translates a story at every step \- a story which begins with modest grains and ends with an aesthetically pleasing glass of liquid art. Explore our blog to find out how fascinating this journey is as we not only define the [craft beer brewing process](https://www.micetcraft.com/brewing-process/) but also the essential beer brewing equipment that brings creation to life.
 
-# Craft Beer Brewing Process
+## Craft Beer Brewing Process
 
 ## Step 1: Malting
 
@@ -43,6 +43,6 @@ To enhance beer’s final character, we let beer mature and meld together, allow
 
 We, at Little Miami Brewing, ensure the perfect packaging of beer after carbonation. Whether bottled, canned or kegged, the Craft Beer is ready for its debut\!
 
-From mash tuns to lauter tuns, boil kettles to fermentation tanks, each [beer brewing equipment](https://www.mybrewery.in/product-page/3-litre-craft-beer-brewing-kit-basic) is used to ensure precision and quality of beer served. Little Miami Brewing, is committed to provide sustainable brewing practices. From selecting the finest malts and hops to leveraging advanced beer brewing equipment, our goal is to delight our customers with every glass. 
+From mash tuns to lauter tuns, boil kettles to fermentation tanks, each [beer brewing equipment](https://www.mybrewery.in/product-page/3-litre-craft-beer-brewing-kit-basic) is used to ensure precision and quality of beer served. Little Miami Brewing, is committed to provide sustainable brewing practices. From selecting the finest malts and hops to leveraging advanced beer brewing equipment, our goal is to delight our customers with every glass.
 
 Let’s end this story of the craft beer brewing process but we promise to keep delivering the glass of beer filled with flavor, creativity and craftsmanship\!

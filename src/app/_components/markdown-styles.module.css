@@ -34,11 +34,14 @@
 }
 
 .markdown code {
-  @apply bg-gray-200 px-2 py-1 rounded;
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
 }
 
 .markdown pre {
   @apply bg-gray-800 text-white p-4 rounded;
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
 }
 
 .markdown blockquote {
@@ -51,4 +54,33 @@
 
 .markdown img {
   @apply mx-auto my-6 max-w-full;
+}
+
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.markdown th, .markdown td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+.markdown th {
+  background-color: #6c757d;
+  color: white;
+  font-weight: bold;
+}
+
+.markdown tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.markdown tr:hover {
+  background-color: #ddd;
 }

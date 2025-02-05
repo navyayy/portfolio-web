@@ -2,7 +2,7 @@
 title: "Product X Wi-Fi Router: Specifications"
 excerpt: "Find the perfect Wi-Fi router without overspending! Whether you need Wi-Fi 5 for basic use or Wi-Fi 7 for high-speed performance, our guide helps you choose the best fit. Compare models, check features, and upgrade your internet today! 🚀"
 coverImage: "/assets/blog/product-x-wifi-router/cover.jpg"
-date: "2022-10-21T00:00:00.000Z"
+date: "2022-08-21T00:00:00.000Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
@@ -10,10 +10,10 @@ ogImage:
   url: "/assets/blog/product-x-wifi-router/cover.jpg"
 ---
 
-Looking for an affordable Wi-Fi Router? We are here to meet your demands which will not only satisfy your technical requirements but also save your pocket from pointless spending.   
+Looking for an affordable Wi-Fi Router? We are here to meet your demands which will not only satisfy your technical requirements but also save your pocket from pointless spending.
 We will provide you with a variety of routers and also let you know the specific details of each router, so that you can choose wisely which router fits best in your apartment, or in house.  
 
-# What you should be aware of before buying a Wi-Fi router?
+## What you should be aware of before buying a Wi-Fi router?
 
 Wi-Fi standing for Wireless Fidelity is a wireless Local Area Network (LAN) technology which modernised the usage of digital devices and made wireless internet available at homes, offices or public places with minimum costing.
 
@@ -55,10 +55,10 @@ We can provide you following routers:
 | Model D | Wi-Fi 6E | Tri-band | Yes, 2 satellites | $300 |
 | Model E | Wi-Fi 7 | Quad-bands | Yes, 3 satellites | $700 |
 
-## Final-Tips:
+## Final-Tips
 
 **Know your needs:** Analyse your needs and refer to them in the provided blog.  
-**Stick to your budget:** Don’t overpay.   
+**Stick to your budget:** Don’t overpay.
 **Check compatibility:** With the description provided in this blog, you can easily find which router is compatible.
 
 We would suggest you to go through the blog before purchasing any router. In this blog, we have provided details for all your needs, hope it helps\! Browse our section and make a decision today\!

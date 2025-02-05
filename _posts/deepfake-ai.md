@@ -2,7 +2,7 @@
 title: "Deepfake AI"
 excerpt: "Deepfake AI technology has a profound impact on media, education, and misinformation, with potential risks such as spreading false information and online abuse. Tech giants are developing advanced tools to detect and combat deepfakes effectively."
 coverImage: "/assets/blog/deepfake-ai/cover.jpg"
-date: "2023-11-26T05:35:07.322Z"
+date: "2024-08-26T05:35:07.322Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"

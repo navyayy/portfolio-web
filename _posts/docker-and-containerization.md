@@ -2,7 +2,7 @@
 title: "Docker and Containerization"
 excerpt: "Docker revolutionizes software deployment by enabling multiple programs to run on a single operating system without separate virtual machines. This blog explores Docker's role in optimizing resource utilization and its impact on modern software development and deployment strategies."
 coverImage: "/assets/blog/docker-and-containerization/cover.png"
-date: "2023-01-08T05:35:07.322Z"
+date: "2024-07-08T05:35:07.322Z"
 author:
   name: Navya Srivastav
   picture: "/assets/blog/authors/navyayy.png"
@@ -22,19 +22,13 @@ A piece of software is packaged in a complete filesystem with all of the necessa
 
 ## Advantages and Disadvantages of Docker
 
-  
-
 Despite the fact that adopting Docker has many benefits, its two most important benefits are as follows:
 
 * When there are increases in user activity, containers can be spun up faster.
 
 * We can always spin up more containers than virtual machines on a server since containers don't have OS overheads.
 
-  
-
 One significant drawback is that a container is less secure than a virtual machine (VM) because it uses the same kernel and has root access, which means that containers are less isolated from one another. If the kernel has a flaw, it may also jeopardise the security of other containers. Many clients are discouraged from using Docker in real situations because of this main barrier.
-
-  
 
 Each programme was formerly hosted on a separate physical machine, using just 10% of that system's total capacity. Virtualization's development resulted in a substantial percentage rise in overall capacity use. Even so, some of the computer's capacity was squandered due to the installation of full OS versions on each virtual machine (each of which consumed some RAM, CPU, and disc space). Containerization and Docker both addressed this issue. The lack of additional OS installation required by Docker containers frees up computer capacity that can be used to host applications.
 
