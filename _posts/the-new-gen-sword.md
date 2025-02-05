@@ -1,6 +1,6 @@
 ---
 title: "The New Gen Sword"
-excerpt: "Explore the plight of the sacred Ganga river, suffering from pollution and neglect, and learn about ongoing efforts to save this revered waterway. Join the movement to restore the Ganga, ensuring its preservation for future generations."
+excerpt: "Coding is the new sword in a world racing toward the future. Through events like Compose Camp, CODEFLUENZA’22, and Hacktoberfest, CTAE Coders Carousel empowers students to learn, compete, and innovate. The goal? To build skills, confidence, and a tech-driven future. 🚀"
 coverImage: "/assets/blog/the-new-gen-sword/cover.jpg"
 date: "2022-10-21T00:00:00.000Z"
 author:
