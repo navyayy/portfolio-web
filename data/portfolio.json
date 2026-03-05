@@ -1,0 +1,408 @@
+{
+  "navLinks": [
+    { "label": "About", "href": "#about", "sectionId": "about" },
+    { "label": "Experience", "href": "#experience", "sectionId": "experience" },
+    { "label": "Work", "href": "#case-studies", "sectionId": "case-studies" },
+    { "label": "Skills", "href": "#skills", "sectionId": "skills" },
+    { "label": "Blog", "href": "#blog", "sectionId": "blog" },
+    { "label": "Contact", "href": "#contact", "sectionId": "contact" }
+  ],
+  "meta": {
+    "name": "Navya Srivastav",
+    "title": "Content Marketing Executive",
+    "tagline": "Crafting stories that convert, content that ranks, and campaigns that resonate.",
+    "roles": [
+      "Content Strategist",
+      "SEO Specialist",
+      "Technical Writer",
+      "Growth Marketer"
+    ],
+    "location": "Gurugram, India",
+    "email": "navyaaasrivastav@gmail.com",
+    "phone": "+91 7080339888",
+    "linkedin": "https://linkedin.com/in/navyasrivastav",
+    "blog": "https://medium.com/@navyasrivastav",
+    "portfolio": "https://navyasrivastav.com",
+    "resumeUrl": "/assets/Navya_Srivastav_Content_Marketing.pdf",
+    "profileImage": "/images/pfp.png"
+  },
+  "hero": {
+    "headline": "I turn complex ideas into content that drives growth.",
+    "subheadline": "Content Marketing • SEO • Technical Writing • Growth",
+    "ctaText": "See My Work",
+    "ctaLink": "#case-studies",
+    "backgroundType": "gradient-mesh"
+  },
+  "about": {
+    "shortBio": "I'm a Content Marketing Executive who bridges the gap between technical complexity and compelling storytelling. With a CS degree and a passion for words, I create content strategies that drive real business results.",
+    "philosophy": "Great marketing doesn't feel like marketing. It feels like value.",
+    "backgroundText": "storyteller",
+    "backgroundSubtext": "content · strategy · growth",
+    "highlights": [
+      "B.Tech in Computer Science from CTAE Udaipur",
+      "Experience across fintech, healthcare, and SaaS verticals",
+      "Technical background enables deep product understanding",
+      "Data-driven approach to content strategy"
+    ],
+    "funFacts": [
+      "Reads marketing case studies like bedtime stories",
+      "Has a content calendar for everything — even personal goals",
+      "Believes the best CTA is one you don't even notice clicking"
+    ]
+  },
+  "metrics": {
+    "sectionTitle": "Impact by Numbers",
+    "items": [
+      {
+        "value": 15,
+        "suffix": "%",
+        "label": "Traffic Increase",
+        "description": "User footfall growth through strategic content at SigLens"
+      },
+      {
+        "value": 2,
+        "suffix": "",
+        "label": "Verticals Led",
+        "description": "Fintech (SaveIN) & Healthcare (welUp) content marketing"
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "Blogs Published",
+        "description": "SEO-optimized articles driving organic growth"
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": "Campaign Ownership",
+        "description": "End-to-end content marketing execution"
+      }
+    ]
+  },
+  "experience": {
+    "sectionTitle": "Experience",
+    "subtitle": "A journey through content, strategy, and growth",
+    "items": [
+      {
+        "id": "savein",
+        "company": "SaveIN",
+        "role": "Content Marketing Executive",
+        "location": "Gurugram, India",
+        "period": "March 2025 – Present",
+        "type": "full-time",
+        "logo": "/images/logos/savein.png",
+        "description": "Leading content marketing for fintech and healthcare verticals",
+        "highlights": [
+          "Led end-to-end content marketing for SaveIN (fintech) and welUp (healthcare) verticals",
+          "Created and managed social media campaigns across LinkedIn and Instagram",
+          "Executed full-funnel marketing campaigns via Apollo.io, HubSpot, and LinkedIn Sales Navigator",
+          "Built monthly content calendars improving cross-functional collaboration",
+          "Tracked campaign performance with Excel dashboards and HubSpot analytics"
+        ],
+        "skills": [
+          "HubSpot",
+          "Apollo.io",
+          "LinkedIn Sales Navigator",
+          "Canva",
+          "Figma",
+          "SEO",
+          "Content Strategy"
+        ],
+        "achievements": [
+          "Represented SaveIN at tech and HR industry events",
+          "Aligned campaign messaging with sales team priorities"
+        ]
+      },
+      {
+        "id": "siglens",
+        "company": "SigLens",
+        "role": "Technical Writer",
+        "location": "Udaipur, Rajasthan",
+        "period": "Sep 2023 – Jun 2024",
+        "type": "full-time",
+        "logo": "/images/logos/siglens.png",
+        "description": "Technical documentation and content marketing for observability platform",
+        "highlights": [
+          "Developed and managed API documentation for telemetry data platform",
+          "Created comparative blogs analyzing SigLens against competitors",
+          "Increased user footfall by 15% through strategic content",
+          "Partnered with product and marketing teams for sales-ready content",
+          "Tracked content adoption and engagement metrics for GTM alignment"
+        ],
+        "skills": [
+          "API Documentation",
+          "Technical Writing",
+          "Competitor Analysis",
+          "Data Analysis",
+          "GTM Strategy"
+        ],
+        "achievements": [
+          "15% increase in user footfall through content strategy",
+          "Cross-functional collaboration between sales, engineering, and product"
+        ]
+      },
+      {
+        "id": "nextedge",
+        "company": "NextEdge Digital",
+        "role": "Content Writer Intern",
+        "location": "Udaipur, Rajasthan",
+        "period": "Sep 2022 – Mar 2023",
+        "type": "internship",
+        "logo": "/images/logos/nextedge.png",
+        "description": "Academic research writing and content creation",
+        "highlights": [
+          "Produced academic-style research papers and articles",
+          "Ensured adherence to Chicago and APA citation formats",
+          "Conducted research on technology, finance, and marketing topics"
+        ],
+        "skills": [
+          "Academic Writing",
+          "Research",
+          "Chicago Style",
+          "APA Style"
+        ]
+      },
+      {
+        "id": "tdc",
+        "company": "TDC Consultancy Pvt. Ltd.",
+        "role": "Content Writer Intern",
+        "location": "Udaipur, Rajasthan",
+        "period": "Dec 2021 – Mar 2022",
+        "type": "internship",
+        "logo": "/images/logos/tdc.png",
+        "description": "Product content and technical blogs for PIM application",
+        "highlights": [
+          "Authored product descriptions and technical blogs for PIM application",
+          "Delivered SEO-optimized content driving website traffic",
+          "Created content showcasing e-commerce product data management"
+        ],
+        "skills": [
+          "Product Writing",
+          "SEO",
+          "Technical Blogs",
+          "E-commerce"
+        ]
+      }
+    ]
+  },
+  "caseStudies": {
+    "sectionTitle": "Selected Work",
+    "subtitle": "Case studies showcasing strategy, execution, and results",
+    "items": [
+      {
+        "id": "savein-content-strategy",
+        "title": "Full-Funnel Content Strategy for Fintech",
+        "company": "SaveIN",
+        "category": "content",
+        "featured": true,
+        "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=800&q=85&fit=crop",
+        "brief": "When I joined SaveIN, the fintech startup had a solid product but almost zero content presence. There were no blogs, no downloadable resources, no structured social campaigns — and the sales team was relying entirely on cold outreach without any inbound support.\n\nI started by auditing the competitive landscape. Companies like Jupiter, Fi Money, and Niyo were publishing 8–10 SEO-optimized articles a month and running LinkedIn thought leadership campaigns. SaveIN had none of that. So I built the content function from scratch.\n\nFirst, I created a keyword research framework using Ahrefs and Semrush, identifying 120+ long-tail keywords in the personal finance and employee wellness space. I then developed a monthly content calendar that mapped each piece of content to a specific funnel stage — awareness blogs for top-of-funnel, comparison guides and whitepapers for mid-funnel, and case study landing pages for bottom-of-funnel.\n\nOn the distribution side, I set up email nurture sequences in HubSpot with automated workflows triggered by content downloads. I built LinkedIn campaigns targeting HR heads and CFOs through Apollo.io and LinkedIn Sales Navigator, with tailored ad copy for each persona.\n\nThe biggest challenge was managing two verticals simultaneously — SaveIN's fintech offering and welUp's healthcare platform. I created a unified content operations system with shared templates, a centralized content brief format, and a review workflow that involved product managers, designers, and the sales team. This framework became the standard operating procedure that new team members could follow independently.\n\nBy the third month, we had a predictable content pipeline producing 12 pieces per month across blogs, social posts, email sequences, and downloadable guides — all tied back to measurable pipeline metrics in HubSpot.",
+        "metrics": [
+          "2 verticals managed simultaneously",
+          "12 content pieces per month pipeline",
+          "Full HubSpot automation setup"
+        ],
+        "tools": [
+          "HubSpot",
+          "Apollo.io",
+          "LinkedIn Sales Navigator",
+          "Canva",
+          "Google Analytics",
+          "Ahrefs"
+        ],
+        "link": "/case-study/savein-content-strategy"
+      },
+      {
+        "id": "siglens-growth",
+        "title": "15% Traffic Growth Through Technical Content",
+        "company": "SigLens",
+        "category": "seo",
+        "featured": true,
+        "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&q=85&fit=crop",
+        "brief": "SigLens is an open-source observability platform built to handle log management at massive scale. When I came on board, the product was technically impressive but virtually invisible online. The documentation was sparse, the blog had fewer than five posts, and the company was competing against giants — Splunk, Datadog, Elastic — who had entire content teams and millions in marketing budgets.\n\nMy approach was to lean into what SigLens did differently: it was open-source, lightweight, and dramatically cheaper to operate. Instead of trying to outspend the competition on broad keywords like 'log management,' I identified a niche strategy focused on comparison and migration content.\n\nI wrote a series of in-depth technical articles — 'SigLens vs Splunk: A Comprehensive Comparison,' 'Why DevOps Teams Are Switching from Elastic to SigLens,' and 'How to Migrate from Datadog to SigLens in 30 Minutes.' Each article was 2,500–3,500 words, packed with architecture diagrams, benchmark data, and step-by-step code examples. These weren't marketing fluff — they were genuinely useful technical resources that developers would bookmark and share.\n\nSimultaneously, I completely rebuilt the API documentation. The existing docs were auto-generated and nearly unusable. I rewrote them from scratch with clear endpoint descriptions, request/response examples in multiple languages, authentication guides, and troubleshooting sections. I organized everything into a logical information architecture that mirrored how developers actually work with the product.\n\nI also created a series of tutorial-style blog posts — 'Setting Up SigLens in 5 Minutes,' 'Building Custom Dashboards with SigLens,' 'Monitoring Kubernetes Clusters with SigLens' — each optimized for developer search patterns identified through Google Search Console and Ahrefs keyword research.\n\nWithin the first quarter, organic traffic increased by 15%. Three of our comparison articles ranked on page one of Google. The API documentation became the most-visited section of the website, and the average session duration on documentation pages increased by 40%, indicating that developers were actually reading and using the content rather than bouncing.",
+        "metrics": [
+          "15% increase in organic traffic in Q1",
+          "Page 1 rankings for competitive keywords",
+          "40% increase in docs session duration"
+        ],
+        "tools": [
+          "Technical Writing",
+          "SEO",
+          "Ahrefs",
+          "Google Search Console",
+          "Markdown",
+          "Data Analysis"
+        ],
+        "link": "/case-study/siglens-growth"
+      },
+      {
+        "id": "social-campaigns",
+        "title": "Multi-Platform Social Media Campaigns",
+        "company": "SaveIN & welUp",
+        "category": "social",
+        "featured": true,
+        "thumbnail": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=800&q=85&fit=crop",
+        "brief": "Social media for B2B and B2B2C brands is a unique challenge — you need to be professional enough for decision-makers but engaging enough to stop someone mid-scroll. For SaveIN and welUp, I had to build two distinct social identities from the ground up while maintaining brand consistency.\n\nFor SaveIN's LinkedIn presence, I developed a content strategy centered on thought leadership and industry insights. I wrote posts from the founder's perspective on fintech trends, employee financial wellness, and HR-tech innovation. I created data-driven carousel posts breaking down financial literacy statistics, and designed infographic series on topics like 'The Hidden Cost of Financial Stress on Employee Productivity.' Each post was crafted to spark conversation — open-ended questions, contrarian takes, and story-driven hooks that consistently outperformed generic company updates.\n\nFor welUp on Instagram, the approach was completely different. The audience was younger, health-conscious, and wanted relatable content. I scripted and storyboarded short-form video content — reels explaining common health myths, quick wellness tips formatted as text overlays, and behind-the-scenes looks at the product development process. I designed carousel posts using Canva and Figma that broke complex health information into digestible, swipeable slides with a warm, approachable visual language.\n\nOn the paid side, I worked with the performance marketing team to create ad copy and creatives for LinkedIn Sponsored Content and Instagram Stories ads. I A/B tested different hooks, CTAs, and visual formats — finding that carousel ads with a question-based first slide consistently drove 2x higher click-through rates than static image ads.\n\nEvery campaign was tracked through a custom spreadsheet dashboard that pulled data from LinkedIn Analytics, Instagram Insights, and Meta Business Suite. I reported weekly on engagement rates, follower growth, click-throughs, and content performance by format — using these insights to continuously refine the content mix and posting schedule.",
+        "metrics": [
+          "Dual-platform strategy (LinkedIn + Instagram)",
+          "2x CTR improvement through A/B testing",
+          "Weekly performance reporting and iteration"
+        ],
+        "tools": [
+          "Canva",
+          "Figma",
+          "Instagram",
+          "LinkedIn",
+          "Meta Business Suite"
+        ],
+        "link": "/case-study/social-campaigns"
+      },
+      {
+        "id": "welup-healthcare",
+        "title": "Healthcare Content That Builds Trust",
+        "company": "welUp",
+        "category": "content",
+        "featured": false,
+        "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=800&q=85&fit=crop",
+        "brief": "Healthcare content carries a weight that most other industries don't — people are making decisions about their health based on what they read. A poorly worded article doesn't just lose engagement; it can genuinely mislead someone. When welUp brought me on to build their content strategy, this responsibility was front and center in everything I created.\n\nwelUp is a wellness platform that helps users track health metrics, find nearby healthcare providers, and access wellness resources. The existing content on the platform was sparse and overly clinical — written in a tone that felt like reading a medical textbook rather than getting advice from a trusted friend.\n\nI started by conducting user interviews and analyzing app store reviews to understand what language real users were using. People weren't searching for 'hypertension management protocols' — they were asking 'why does my blood pressure spike when I'm stressed?' This gap between medical jargon and everyday language became the foundation of my content strategy.\n\nI developed a content style guide specific to welUp that prioritized three principles: accuracy (every health claim was cross-referenced with WHO, NIH, or peer-reviewed sources), empathy (acknowledging that health concerns can be scary and validating the reader's feelings), and actionability (every article ended with concrete, implementable steps).\n\nI created content across multiple formats — long-form blog articles on topics like seasonal wellness, nutrition basics, and mental health awareness; in-app tooltip copy that explained health metrics in plain language; push notification copy that encouraged healthy habits without feeling nagging; and social media posts that destigmatized health conversations.\n\nThe content team I worked with was small, so I also built templates and frameworks that allowed non-writers on the product team to contribute content that maintained our quality standards. I created a review checklist that covered medical accuracy, readability score (targeting Grade 8 reading level), SEO optimization, and brand voice consistency.\n\nOver time, the content strategy shifted welUp's brand perception from 'just another health app' to a trusted wellness companion. User engagement with in-app content increased, and the blog became a significant organic traffic driver — with several articles ranking for competitive health-related search terms.",
+        "metrics": [
+          "Patient-centric content style guide",
+          "Grade 8 readability standard achieved",
+          "Organic blog traffic growth"
+        ],
+        "tools": [
+          "Content Strategy",
+          "HubSpot",
+          "Canva",
+          "Medical Writing",
+          "SEO"
+        ],
+        "link": "/case-study/welup-healthcare"
+      }
+    ]
+  },
+  "skills": {
+    "sectionTitle": "Skills & Tools",
+    "subtitle": "The toolkit I use to drive content marketing results",
+    "categories": [
+      {
+        "name": "Content Management",
+        "skills": ["Content Creation", "Editing", "Proofreading", "Formatting", "Publishing", "Optimization"]
+      },
+      {
+        "name": "Research & Analysis",
+        "skills": ["Technical Research", "Market Research", "Competitor Analysis", "Data Analysis", "Trend Analysis", "A/B Testing"]
+      },
+      {
+        "name": "Marketing Tools",
+        "skills": ["Google Analytics", "Ahrefs", "Semrush", "HubSpot", "WordPress", "Apollo.io", "LinkedIn Sales Navigator"]
+      },
+      {
+        "name": "Design & Creative",
+        "skills": ["Canva", "Figma"]
+      },
+      {
+        "name": "Technical",
+        "skills": ["HTML", "Git", "API Documentation"]
+      },
+      {
+        "name": "Project Management",
+        "skills": ["Jira", "Trello", "Slack", "Google Workspace", "Microsoft Office Suite"]
+      },
+      {
+        "name": "Writing Standards",
+        "skills": ["AP Style", "Chicago Manual of Style"]
+      }
+    ],
+    "featured": [
+      { "name": "HubSpot", "icon": "hubspot", "level": "advanced" },
+      { "name": "SEO", "icon": "search", "level": "advanced" },
+      { "name": "Content Strategy", "icon": "strategy", "level": "advanced" },
+      { "name": "Canva", "icon": "canva", "level": "advanced" },
+      { "name": "Google Analytics", "icon": "analytics", "level": "intermediate" },
+      { "name": "Figma", "icon": "figma", "level": "intermediate" }
+    ]
+  },
+  "instagramReels": {
+    "sectionTitle": "Content I've Created",
+    "subtitle": "Reels, campaigns, and social content for welUp by SaveIN",
+    "instagramHandle": "@welupbysavein",
+    "instagramUrl": "https://www.instagram.com/welupbysavein",
+    "reelUrls": [
+      "https://www.instagram.com/reel/DUqDBODgGk8/",
+      "https://www.instagram.com/reel/DScebFXiMML/",
+      "https://www.instagram.com/reel/DLm-4OlSw9K/",
+      "https://www.instagram.com/reel/DLC7LGrg4NU/",
+      "https://www.instagram.com/reel/DKw2s9RAyUL/",
+      "https://www.instagram.com/reel/DKewTmOAHrG/",
+      "https://www.instagram.com/reel/DKM5QMdS6DN/",
+      "https://www.instagram.com/reel/DJ1v4z2TUts/",
+      "https://www.instagram.com/reel/DJo5h_QvZg2/",
+      "https://www.instagram.com/reel/DJW7OCAAPQL/",
+      "https://www.instagram.com/reel/DJEewGxAAXG/"
+    ],
+    "postUrls": [
+      "https://www.instagram.com/welupbysavein/p/DUiZP34Eklz/",
+      "https://www.instagram.com/welupbysavein/p/DUlFgYnEkq2/",
+      "https://www.instagram.com/welupbysavein/p/DU0TLYbk_c-/",
+      "https://www.instagram.com/welupbysavein/p/DU8EkPRkoca/",
+      "https://www.instagram.com/welupbysavein/p/DU7esImEiGG/",
+      "https://www.instagram.com/welupbysavein/p/DUsFiEriC_z/",
+      "https://www.instagram.com/welupbysavein/p/DRzVMzvkmgt/",
+      "https://www.instagram.com/welupbysavein/p/DPRHI9xCExv/"
+    ]
+  },
+  "bookCall": {
+    "heading": "Interested in working together?",
+    "subheading": "Let's chat about your next content project.",
+    "calLink": "navya/15min",
+    "calNamespace": "15min",
+    "buttonText": "Book a Call"
+  },
+  "blog": {
+    "sectionTitle": "Thoughts & Writing",
+    "subtitle": "Articles on content marketing, SEO, and tech",
+    "featured": [
+      {
+        "id": "blog-1",
+        "title": "Sample Blog Post Title",
+        "excerpt": "Brief description of the blog post content...",
+        "publishedAt": "2024-06-15",
+        "readTime": "5 min read",
+        "thumbnail": "/images/blog/blog-1-thumb.jpg",
+        "externalUrl": "https://medium.com/@navyasrivastav/article-1",
+        "tags": ["Content Marketing", "SEO"]
+      }
+    ]
+  },
+  "achievements": {
+    "sectionTitle": "Achievements",
+    "subtitle": "Awards, recognitions, and community contributions",
+    "items": []
+  },
+  "education": {
+    "degree": "Bachelor of Technology and Engineering",
+    "major": "Computer Science",
+    "institution": "College of Technology And Engineering",
+    "location": "Udaipur, Rajasthan",
+    "period": "2020 – 2024",
+    "logo": "/images/logos/ctae.png"
+  },
+  "contact": {
+    "headline": "Let's Create Something Great",
+    "subheadline": "Have a project in mind? I'd love to hear about it.",
+    "email": "navyaaasrivastav@gmail.com",
+    "phone": "",
+    "linkedin": "https://linkedin.com/in/navyasrivastav",
+    "calendlyLink": "navya/15min",
+    "availability": ""
+  },
+  "footer": {
+    "tagline": "Designed & Built by Navya Srivastav",
+    "socialLinks": [
+      { "platform": "linkedin", "url": "https://linkedin.com/in/navyasrivastav" },
+      { "platform": "email", "url": "mailto:navyaaasrivastav@gmail.com" },
+      { "platform": "medium", "url": "https://medium.com/@navyasrivastav" }
+    ]
+  }
+}
